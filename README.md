@@ -1,4 +1,0 @@
-PACMAN-ONLINE
-=============
-
-SISTEMA DE JUEGO ONLINE
